@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($PORT / $DMDD))
+echo $(($POWER / $DMDE))
